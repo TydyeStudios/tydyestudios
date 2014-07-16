@@ -21,16 +21,16 @@ a {color:#13c5ff;text-decoration:underline;outline:none}
 a:hover {text-decoration:none}
 h1 {padding:37px 0 0 19px;float:left}
 h2 {font-size:40px;line-height:1.2em;color:#0f0f0f;padding:1px 0 17px 10px;letter-spacing:-1px}
-h2 span {color:#13c5ff}
+h2 span {color:#00ff00}
 p {padding-bottom:20px}
 /* header */
 header {height:645px}
 #logo {display:block;background:url(../images/logo.png) 0 0 no-repeat;width:276px;height:94px;text-indent:-9999px}
 #search {float:right;padding:41px 20px 0 0;width:600px}
 #search .input {float:right;width:148px;padding:5px 8px;font:14px Arial, Helvetica, sans-serif;background:#fff;color:#999;height:16px}
-#search .submit {display:block;cursor:pointer;background:url(../images/search.gif) 0 0 no-repeat;width:20px;height:26px;float:right;margin-left:4px}
+#search .submit {display:block;cursor:pointer;background:url(../images/search.gif) 0 0 no-repeat;width:26px;height:26px;float:right;margin-left:4px}
 #menu {float:right;padding:40px 19px 0 0}
-#menu li {float:right;padding-center:24px}
+#menu li {float:left;padding-right:28px}
 #menu .end {padding-right:0}
 #menu li a {display:block;font-size:16px;color:#fff;text-decoration:none;background:url(../images/menu_marker.png) 0 6px no-repeat;padding-left:20px}
 #menu li a:hover, #menu #active a {color:#00ff00}
@@ -73,7 +73,7 @@ header {height:645px}
 .tabs ul.nav {margin-top:-5px}
 .tabs ul.nav li {line-height:30px}
 .tabs ul.nav li a {color:#0f0f0f;padding-left:16px;background:url(../images/marker_1.gif) 2px 6px no-repeat}
-.tabs ul.nav li a:hover, .tabs ul.nav .selected a {color:#00ff00;text-decoration:none}
+.tabs ul.nav li a:hover, .tabs ul.nav .selected a {color:#13c5ff;text-decoration:none}
 .tabs .content {}
 .tabs .tab-content {}
 /* tabs end */
