@@ -28,10 +28,10 @@
     <div class="body1">
       <div class="body2">
         <div class="body3">
-          <div class="main"> <!-- header -->
+          <div class="main">
+            <!-- header -->
             <header>
               <div class="wrapper">
-                <h1><a href="index.html" id="logo"></a></h1>
                 <form id="search" method="post">
                   <div> <input class="submit" value="" type="submit"> <input class="input"
 
