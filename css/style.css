@@ -29,7 +29,7 @@ header {height:645px}
 #search {float:right;padding:41px 20px 0 0;width:600px}
 #search .input {float:right;width:148px;padding:5px 8px;font:14px Arial, Helvetica, sans-serif;background:#fff;color:#999;height:16px}
 #search .submit {display:block;cursor:pointer;background:url(../images/search.gif) 0 0 no-repeat;width:20px;height:26px;float:right;margin-left:4px}
-#menu {float:right;padding:40px 19px 0 0}
+#menu {float:center;padding:40px 19px 0 0}
 #menu li {float:left;padding-right:24px}
 #menu .end {padding-right:0}
 #menu li a {display:block;font-size:16px;color:#fff;text-decoration:none;background:url(../images/menu_marker.png) 0 6px no-repeat;padding-left:20px}
