@@ -28,10 +28,10 @@
     <div class="body1">
       <div class="body2">
         <div class="body3">
-          <div class="main"> <!-- header -->
+          <div class="main">
+            <!-- header -->
             <header>
               <div class="wrapper">
-                <h1><a href="index.html" id="logo"></a></h1>
                 <form id="search" method="post">
                   <div> <input class="submit" value="" type="submit"> <input class="input"
 
@@ -44,9 +44,10 @@
                   <ul id="menu">
                     <li><a href="index.html">Home</a></li>
                     <li><a href="About.html">About</a></li>
-                    <li id="active"><a href="Folio.html">Folio</a></li>
+                    <li id="active"><a href="Folio.html">Gallery</a></li>
+                    <li><a href="Store.html">Store</a></li>
                     <li><a href="Services.html">Services</a></li>
-                    <li><a href="News.html">News</a></li>
+                    <li><a href="News.html">Blog</a></li>
                     <li class="end"><a href="Contact.html">Contact</a></li>
                   </ul>
                 </nav>
