@@ -44,9 +44,15 @@
               <div class="relative">
                 <div id="gallery">
                   <ul id="myRoundabout">
-                    <li><img src="images/img1.png" alt=""></li>
-                    <li><img src="images/img2.png" alt=""></li>
-                    <li><img src="images/img3.png" alt=""></li>
+                    <li><img style="width: 101px; height: 57px;" src="images/img1.png"
+
+                        alt=""></li>
+                    <li><img style="width: 110px; height: 62px;" src="images/img2.png"
+
+                        alt=""></li>
+                    <li><img style="width: 87px; height: 49px;" src="images/img3.png"
+
+                        alt=""></li>
                   </ul>
                 </div>
               </div>
@@ -61,9 +67,9 @@
                       <h2>Shortly About Me</h2>
                       <figure><img src="images/page1_img1.jpg" alt="" class="pad_bot1"></figure>
                       <div class="pad">
-                        <p> This Photographer’s Portfolio is one of <a href="http://blog.templatemonster.com/free-website-templates/%20"
-                            target="_blank">free website templates</a> created
-                          by TemplateMonster.com team </p>
+                        <p> This is Tyler Tsang, a young artist who airbrushes,
+                          does fine art, and creates amazing pieces of work of
+                          various media...</p>
                       </div>
                     </article>
                     <article class="col2 pad_left1">
@@ -82,14 +88,15 @@
                     <article class="col3 pad_left1">
                       <h2>What’s New</h2>
                       <div class="pad">
-                        <div class="wrapper"> <span class="date"><span>22</span>may</span>
+                        <div class="wrapper"> <span style="color: lime;" class="date"><span>22</span>July</span>
                           <p> <a href="#" class="link1">Sed ut perspiciatis</a><br>
-                            This <a href="http://blog.templatemonster.com/2011/05/16/free-website-template-photographers-portfolio/%20"
+                            This <a href="http://blog.templatemonster.com/2011/05/16/free-website-template-photographers-portfolio/%20"
+
                               target="_blank">Free Website Template</a> goes
                             with two packages. With PSD source files and
                             without. </p>
                         </div>
-                        <div class="wrapper"> <span class="date"><span>28</span>may</span>
+                        <div class="wrapper"> <span class="date"><span>16</span>July</span>
                           <p> <a href="#" class="link1">Doperiam eaque ipsa </a><br>
                             Quae ab illo inventore veritatis et quasi archiecto
                             beatae vitaedic explicaob emo enim ipsam. </p>
@@ -102,7 +109,7 @@
                     </article>
                     <article class="col2 pad_left1"> <a href="#" class="button">Read
                         More</a> </article>
-                    <article class="col3 pad_left1"> <a href="#" class="button">News
+                    <article class="col3 pad_left1"> <a href="#" class="button">Blog
                         Archive</a> </article>
                   </div>
                 </div>
@@ -120,7 +127,8 @@
               <article class="col1">
                 <h2>My Philosophy</h2>
                 <div class="wrapper">
-                  <figure class="left marg_right1"><img src="images/page1_img2.jpg"
+                  <figure class="left marg_right1"><img src="images/page1_img2.jpg"
+
                       alt=""></figure>
                   <p> <strong>At vero eos et accusamus iusto</strong> odio
                     dignissimos ducimus qui blanditiis praesentium voluptatum
@@ -137,7 +145,7 @@
                 </div>
               </article>
               <article class="col3 pad_left1">
-                <h2>Coming Soon</h2>
+                <h2>What's Coming!</h2>
                 <div class="pad">
                   <div class="wrapper"> <span class="date"><span>12</span>jun</span>
                     <p> <a href="#" class="link1">Sed ut perspiciatis</a><br>
@@ -165,22 +173,29 @@
     <div class="main">
       <!-- footer -->
       <footer>
-        <div class="wrapper"> <span class="left"> <a rel="nofollow" href="http://www.templatemonster.com/"
+        <div class="wrapper"> <span class="left"> <a rel="nofollow" href="http://www.templatemonster.com/"
+
               <="" span=""> </a>
             <ul id="icons">
               <a rel="nofollow" href="http://www.templatemonster.com/" <="" span="">
               </a>
-              <li><a href="#" class="normaltip" title="Facebook"><img src="images/icon1.png"
+              <li><a href="#" class="normaltip" title="Facebook"><img src="images/icon1.png"
+
                     alt=""></a></li>
-              <li><a href="#" class="normaltip" title="Delicious"><img src="images/icon2.png"
+              <li><a href="#" class="normaltip" title="Delicious"><img src="images/icon2.png"
+
                     alt=""></a></li>
-              <li><a href="#" class="normaltip" title="Stumble Upon"><img src="images/icon3.png"
+              <li><a href="#" class="normaltip" title="Stumble Upon"><img src="images/icon3.png"
+
                     alt=""></a></li>
-              <li><a href="#" class="normaltip" title="Twitter"><img src="images/icon4.png"
+              <li><a href="#" class="normaltip" title="Twitter"><img src="images/icon4.png"
+
                     alt=""></a></li>
-              <li><a href="#" class="normaltip" title="Linkedin"><img src="images/icon5.png"
+              <li><a href="#" class="normaltip" title="Linkedin"><img src="images/icon5.png"
+
                     alt=""></a></li>
-              <li><a href="#" class="normaltip" title="Reddit"><img src="images/icon6.png"
+              <li><a href="#" class="normaltip" title="Reddit"><img src="images/icon6.png"
+
                     alt=""></a></li>
             </ul>
           </span></div>

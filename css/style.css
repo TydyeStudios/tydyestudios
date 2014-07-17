@@ -65,15 +65,15 @@ header {height:645px}
 .link2 {text-decoration:none}
 .link2:hover {color:#000}
 #content2 .link2:hover {color:#fff}
-.date {float:left;width:46px;margin-right:20px;text-align:center;font-size:30px;color:#13c5ff;line-height:1.2em;padding-bottom:20px}
-.date span {display:block;font-size:53px;line-height:1.2em;margin-top:-8px;margin-bottom:-22px;letter-spacing:-2px}
-.color1 {color:#13c5ff}
+.date {float:left;width:46px;margin-right:20px;text-align:center;font-size:30px;color:#00ff00;line-height:1.2em;padding-bottom:20px}
+.date span {display:block;font-size:53px;line-height:1.2em;margin-top:-6px;margin-bottom:-20px;letter-spacing:-2px}
+.color1 {color:#00ff00}
 /* tabs begin */
 .tabs {}
 .tabs ul.nav {margin-top:-5px}
 .tabs ul.nav li {line-height:30px}
 .tabs ul.nav li a {color:#0f0f0f;padding-left:16px;background:url(../images/marker_1.gif) 2px 6px no-repeat}
-.tabs ul.nav li a:hover, .tabs ul.nav .selected a {color:#13c5ff;text-decoration:none}
+.tabs ul.nav li a:hover, .tabs ul.nav .selected a {color:#00ff00;text-decoration:none}
 .tabs .content {}
 .tabs .tab-content {}
 /* tabs end */
