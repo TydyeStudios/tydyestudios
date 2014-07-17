@@ -73,9 +73,16 @@
                       <h2>Experiences</h2>
                       <div class="pad">
                         <ul class="list1">
-                          <li><a href="#">F</a></li>
-                          <li><a href="#">A</a></li>
-                          <li><a href="#">S</a></li>
+                          <li><a href="#">Created commissioned works of art for
+                              people and shared consistent communication on
+                              progress.</a><span style="font-weight: bold;"></span>
+                          </li>
+                          <li><a href="file:///C:/Users/Tyler.%20T/Documents/GitHub/tydyestudios/index.html#">Works
+                              consistently winning the golden key in the
+                              prestigious art show the Boston All Scholastic
+                              Arts and Writing. </a></li>
+                          <li><a href="file:///C:/Users/Tyler.%20T/Documents/GitHub/tydyestudios/index.html#">Previously
+                              created websites </a></li>
                         </ul>
                       </div>
                     </article>
@@ -96,7 +103,7 @@
                         class="button">Read More</a> </article>
                     <article class="col2 pad_left1"> <a target="_top" href="services.html"
                         class="button">Read More</a> </article>
-                    <article class="col3 pad_left1"> <a href="#" class="button">Blog
+                    <article class="col3 pad_left1"> <a href="#" class="button">Read
                         Archive</a> </article>
                   </div>
                 </div>
@@ -116,18 +123,27 @@
                 <div class="wrapper">
                   <figure class="left marg_right1"><img src="images/page1_img2.jpg"
                       alt=""></figure>
-                  <p> <strong>At vero eos et accusamus iusto</strong> odio
-                    dignissimos ducimus qui blanditiis praesentium voluptatum
-                    deleniti atque <a href="#">corrupti quos dolores</a> et
-                    quas moles- tias excepturi sint occaecati cupiditate non
-                    provident, similique sunt in culpa qui officia deserunt. </p>
-                </div>
-                <div class="pad">
-                  <p> Et harum quidem rerum facilis est et expedita distinctio.
-                    Nam libero tempore, cum soluta nobis est eligendi optio
-                    cumque nihil impedit quo minus id quod maxime placeat facere
-                    possimus, omnis voluptas assumenda est, omnis dolor
-                    repellendus. </p>
+                  <p> <strong>Everyone Is An Artist<br>
+                    </strong></p>
+                  <p>Since I was young I have seen people develop their skills
+                    and have a keen eye for what they love. What I had a keen
+                    eye for was art and I have observed that everybody seemed to
+                    enjoy it as well.</p>
+                  <p>I have taken their liking for my skill into a passion and
+                    turned what I have started with from little drawings on
+                    paper into full fledged professional works of art. Everybody
+                    seems to celebrate what I do now, but from what I see, I
+                    should celebrate from what I started off with. I started off
+                    as any other kid, I just drew because I liked to. I never
+                    thought I would turn what I liked to do into something that
+                    I really wanted to do as a profession. Once I heard the
+                    encouragement of peers I started to draw more and more and
+                    it grew from there.</p>
+                  <p>I would like to celebrate everybody's passion as well as
+                    the fact that everything takes practice to get good at.
+                    Everyone's passion is worth celebrating and cherishing, and
+                    once we all start cherishing and loving each others works
+                    the world will be a better place...</p>
                 </div>
               </article>
               <article class="col3 pad_left1">
@@ -146,8 +162,8 @@
             </div>
             <div class="wrapper buttons">
               <article class="col1"> <a href="#" class="button">Read More</a> </article>
-              <article class="col3 pad_left1"> <a href="#" class="button">Read
-                  More</a> </article>
+              <article class="col3 pad_left1"> <a href="#" class="button">Events</a>
+              </article>
             </div>
           </div>
         </section>
