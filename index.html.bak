@@ -70,17 +70,17 @@
                       <h2>Experiences</h2>
                       <div class="pad">
                         <ul class="list1">
-                          <li><a href="#">Created commissioned works of art for
+                          <li>Created commissioned works of art for
                               people and shared consistent communication on
-                              progress.</a><span style="font-weight: bold;"></span>
+                            progress.
                           </li>
-                          <li><a href="file:///C:/Users/Tyler.%20T/Documents/GitHub/tydyestudios/index.html#">Works
+                          <li>Works
                               consistently winning the golden key in the
                               prestigious art show the Boston All Scholastic
-                              Arts and Writing. </a></li>
-                          <li><a href="file:///C:/Users/Tyler.%20T/Documents/GitHub/tydyestudios/index.html#">Previously
+                              Arts and Writing.</li>
+                          <li>Previously
                               created websites for practice and implementation
-                              practices.</a></li>
+                              practices.</li>
                         </ul>
                       </div>
                     </article>
@@ -105,11 +105,13 @@
                     </article>
                   </div>
                   <div class="wrapper buttons">
-                    <article class="col1"> <a target="_top" title="About" href="About.html"
+                    <article class="col1"> <a target="_top" title="About" href="About.html"
+
                         class="button">Read More</a> </article>
-                    <article class="col2 pad_left1"> <a target="_top" href="services.html"
+                    <article class="col2 pad_left1"> <a target="_top" href="services.html"
+
                         class="button">Read More</a> </article>
-                    <article class="col3 pad_left1"> <a href="#" class="button">Read
+                    <article class="col3 pad_left1"> <a href="news.html" class="button">Read
                         Archive</a> </article>
                   </div>
                 </div>
@@ -127,7 +129,8 @@
               <article class="col1">
                 <h2>My Philosophy</h2>
                 <div class="wrapper">
-                  <figure class="left marg_right1"><img src="images/page1_img2.jpg"
+                  <figure class="left marg_right1"><img src="images/page1_img2.jpg"
+
                       alt=""></figure>
                   <p> <strong>Everyone Is An Artist<br>
                     </strong></p>
@@ -182,22 +185,29 @@
     <div class="main">
       <!-- footer -->
       <footer>
-        <div class="wrapper"> <span class="left"> <a rel="nofollow" href="http://www.templatemonster.com/"
+        <div class="wrapper"> <span class="left"> <a rel="nofollow" href="http://www.templatemonster.com/"
+
               <="" span=""> </a>
             <ul id="icons">
               <a rel="nofollow" href="http://www.templatemonster.com/" <="" span="">
               </a>
-              <li><a href="#" class="normaltip" title="Facebook"><img src="images/icon1.png"
+              <li><a href="#" class="normaltip" title="Facebook"><img src="images/icon1.png"
+
                     alt=""></a></li>
-              <li><a href="#" class="normaltip" title="Delicious"><img src="images/icon2.png"
+              <li><a href="#" class="normaltip" title="Delicious"><img src="images/icon2.png"
+
                     alt=""></a></li>
-              <li><a href="#" class="normaltip" title="Stumble Upon"><img src="images/icon3.png"
+              <li><a href="#" class="normaltip" title="Stumble Upon"><img src="images/icon3.png"
+
                     alt=""></a></li>
-              <li><a href="#" class="normaltip" title="Twitter"><img src="images/icon4.png"
+              <li><a href="#" class="normaltip" title="Twitter"><img src="images/icon4.png"
+
                     alt=""></a></li>
-              <li><a href="#" class="normaltip" title="Linkedin"><img src="images/icon5.png"
+              <li><a href="#" class="normaltip" title="Linkedin"><img src="images/icon5.png"
+
                     alt=""></a></li>
-              <li><a href="#" class="normaltip" title="Reddit"><img src="images/icon6.png"
+              <li><a href="#" class="normaltip" title="Reddit"><img src="images/icon6.png"
+
                     alt=""></a></li>
             </ul>
           </span></div>
@@ -217,5 +227,6 @@
 			 reflect:true
 		});
 	});
-</script> </body>
+</script>
+  </body>
 </html>
