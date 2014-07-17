@@ -57,7 +57,7 @@ header {height:645px}
 .list1 li {padding-bottom:20px;padding-left:14px;background:url(../images/marker_1.gif) 0 8px no-repeat}
 .list1 li a {display:block;font-weight:bold;color:#0f0f0f;text-decoration:none}
 .list1 li a:hover {color:#13c5ff}
-.button {display:inline-block;color:#fff;line-height:28px;text-decoration:none;padding:0 14px;background:#13c5ff}
+.button {display:inline-block;color:#fff;line-height:28px;text-decoration:none;padding:0 14px;background:#00ff00}
 .button:hover {background:#373737}
 #content2 .button:hover {background:#fff;color:#373737}
 .link1 {color:#0f0f0f;font-weight:bold}
