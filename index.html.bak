@@ -87,7 +87,7 @@
                     <article class="col3 pad_left1">
                       <h2>What’s New</h2>
                       <div class="pad">
-                        <div class="wrapper"> <span style="color: lime;" class="date"><span>22</span>July</span>
+                        <div class="wrapper"> <span style="color: lime;" class="date"><span>22</span>Jul</span>
                           <p> <a href="#" class="link1">The New Website is up
                               and running!</a></p>
                           <p>The New Site is now up and running! All new
@@ -95,7 +95,7 @@
                             and more user friendly experience!</p>
                           <span style="text-decoration: underline;"><span style="font-weight: bold;"></span></span>
                         </div>
-                        <div class="wrapper"> <span style="color: lime;" class="date"><span>16</span>July</span>
+                        <div class="wrapper"> <span style="color: lime;" class="date"><span>16</span>Jul</span>
                           <p> <a href="#" class="link1">Updated Gallery</a></p>
                           The gallery has been updated to be less cluttered than
                           the previous website. As well as the only the best
