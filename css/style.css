@@ -24,7 +24,7 @@ h2 {font-size:40px;line-height:1.2em;color:#0f0f0f;padding:1px 0 17px 10px;lette
 h2 span {color:#00ff00}
 p {padding-bottom:20px}
 /* header */
-header {height:800px}
+header {height:945px}
 #logo {display:block;background:url(../images/logo.png) 0 0 no-repeat;width:276px;height:94px;text-indent:-9999px}
 #search {float:right;padding:41px 20px 0 0;width:600px}
 #search .input {float:right;width:148px;padding:5px 8px;font:14px Arial, Helvetica, sans-serif;background:#fff;color:#999;height:16px}
