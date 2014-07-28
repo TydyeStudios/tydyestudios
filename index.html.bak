@@ -26,10 +26,10 @@
           <div class="main">
             <!-- header -->
             <header>
-              <div class="wrapper"> 
-                <a href="index.html" id="logo"><br>
-                <br>
-                <form id="search" method="post"> </form>
+              <div class="wrapper"> <a href="index.html" id="logo"><br>
+                  <br>
+                  <form id="search" method="post"> </form>
+                </a>
                 <nav>
                   <ul id="menu">
                     <li id="active"><a href="index.html">Home</a></li>

@@ -24,22 +24,16 @@
           <div class="main">
             <!-- header -->
             <header>
-              <div class="wrapper">
-                <h1>
-                  <h1><a href="index.html" id="logo"><br>
-                    </a>
-                    <ul id="menu">
-                      <a href="index.html" id="logo"> </a>
-                      <li><a href="index.html">Home</a></li>
-                      <li><a href="About.html">About</a></li>
-                      <li><a href="Folio.html">Gallery</a></li>
-                      <li><a href="Store.html">Store</a></li>
-                      <li><a href="Services.html">Services</a></li>
-                      <li><a href="news.html">Blog</a></li>
-                      <li class="end"><a href="Contact.html">Contact</a></li>
-                    </ul>
-                  </h1>
-                </h1>
+              <div class="wrapper"> <a href="index.html" id="logo"> </a><br>
+                <ul id="menu">
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="About.html">About</a></li>
+                  <li><a href="Folio.html">Gallery</a></li>
+                  <li><a href="Store.html">Store</a></li>
+                  <li><a href="Services.html">Services</a></li>
+                  <li><a href="news.html">Blog</a></li>
+                  <li class="end"><a href="Contact.html">Contact</a></li>
+                </ul>
               </div>
             </header>
             <div class="ic">More Website Templates at TemplateMonster.com!</div>
@@ -47,7 +41,7 @@
             <!-- content -->
             <section id="content">
               <div class="wrapper">
-                <h2><span>11.05.2011.</span> L</h2>
+                <h2><span>July 28, 2014</span> New Updated Site!</h2>
                 <div class="wrapper">
                   <figure class="left marg_right1"><img src="images/page5_img1.jpg"
 
@@ -65,11 +59,11 @@
       <div class="main">
         <section id="content2">
           <div class="wrapper">
-            <h2>N</h2>
+            <h2>Archive</h2>
             <div class="pad">
-              <p class="pad_bot2"> <strong> <span class="color1">09.05.2011.</span>
-                  S</strong> </p>
-              <p> N <a href="#" class="link2">[...]</a> </p>
+              <p class="pad_bot2"> <strong> <span class="color1">July 28, 2014</span>
+                  New Updated Site!</strong></p>
+              <p class="pad_bot2">N </p>
               <p class="pad_bot2"> <strong> <span class="color1">04.05.2011.</span>
                   S</strong> </p>
               <p> A <a href="#" class="link2">[...]</a> </p>
@@ -116,6 +110,5 @@
         <!-- {%FOOTER_LINK} --> </footer>
       <!-- / footer --> </div>
     <script type="text/javascript"> Cufon.now(); </script>
-    
   </body>
 </html>
