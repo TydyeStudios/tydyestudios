@@ -26,8 +26,8 @@
           <div class="main">
             <!-- header -->
             <header>
-              <div class="wrapper"> <br>
-                <h1><a href="index.html" id="logo"></a></h1>
+              <div class="wrapper"> 
+                <a href="index.html" id="logo"><br>
                 <br>
                 <form id="search" method="post"> </form>
                 <nav>
